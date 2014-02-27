@@ -1,4 +1,4 @@
-package org.edie.java.io.nio;
+package org.edie.java.io.bio;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
